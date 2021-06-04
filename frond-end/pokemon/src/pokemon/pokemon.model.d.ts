@@ -9,7 +9,7 @@ export interface PokemonModel{
     abilities:[];
     imgURL: string;
     specie: string;
-    moves:[];
+    
 
 }
 

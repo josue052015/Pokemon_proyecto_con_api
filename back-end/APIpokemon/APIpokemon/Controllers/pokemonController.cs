@@ -83,7 +83,7 @@ namespace APIpokemon.Controllers
                    abilities = abilitiesNames.ToList(),
                    imgURL = _pokemons.sprites.front_default,
                    specie = _pokemons.species.name,
-                   moves = movesNames.ToList()
+                   
             };
 
             return pokemonApiResult;

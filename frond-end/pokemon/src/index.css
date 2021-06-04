@@ -88,6 +88,7 @@ div.centered table
 .PokeUL {
   padding: 0px;
   margin-top: 40px;
+  margin-left: 20px;
   }
   .PokeLI {
   list-style-type: none;
@@ -96,4 +97,10 @@ div.centered table
   padding: 10px;
   margin: 10px;
   width: 347px;
+  }
+  #PokeLIPrimary{
+    margin-right: 28px;
+  }
+  .ListElement{
+    align-items: center;
   }
