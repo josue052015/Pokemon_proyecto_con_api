@@ -1,0 +1,14 @@
+F:\proyecto_pokemon\back-end\APIpokemon\APIpokemon\bin\Release\netcoreapp2.1\APIpokemon.deps.json
+F:\proyecto_pokemon\back-end\APIpokemon\APIpokemon\bin\Release\netcoreapp2.1\APIpokemon.runtimeconfig.json
+F:\proyecto_pokemon\back-end\APIpokemon\APIpokemon\bin\Release\netcoreapp2.1\APIpokemon.runtimeconfig.dev.json
+F:\proyecto_pokemon\back-end\APIpokemon\APIpokemon\bin\Release\netcoreapp2.1\APIpokemon.dll
+F:\proyecto_pokemon\back-end\APIpokemon\APIpokemon\bin\Release\netcoreapp2.1\APIpokemon.pdb
+F:\proyecto_pokemon\back-end\APIpokemon\APIpokemon\obj\Release\netcoreapp2.1\APIpokemon.csprojAssemblyReference.cache
+F:\proyecto_pokemon\back-end\APIpokemon\APIpokemon\obj\Release\netcoreapp2.1\APIpokemon.csproj.CoreCompileInputs.cache
+F:\proyecto_pokemon\back-end\APIpokemon\APIpokemon\obj\Release\netcoreapp2.1\APIpokemon.RazorAssemblyInfo.cache
+F:\proyecto_pokemon\back-end\APIpokemon\APIpokemon\obj\Release\netcoreapp2.1\APIpokemon.RazorAssemblyInfo.cs
+F:\proyecto_pokemon\back-end\APIpokemon\APIpokemon\obj\Release\netcoreapp2.1\APIpokemon.AssemblyInfoInputs.cache
+F:\proyecto_pokemon\back-end\APIpokemon\APIpokemon\obj\Release\netcoreapp2.1\APIpokemon.AssemblyInfo.cs
+F:\proyecto_pokemon\back-end\APIpokemon\APIpokemon\obj\Release\netcoreapp2.1\APIpokemon.RazorTargetAssemblyInfo.cache
+F:\proyecto_pokemon\back-end\APIpokemon\APIpokemon\obj\Release\netcoreapp2.1\APIpokemon.dll
+F:\proyecto_pokemon\back-end\APIpokemon\APIpokemon\obj\Release\netcoreapp2.1\APIpokemon.pdb
