@@ -37,7 +37,9 @@ export default function PokeDetails() {
                                 <th>HEIGHT</th>
                                 <th>WEIGHT</th>
                                 <th>ABILITIES</th>
-                                <th>MOVES</th>
+                                <th>IMAGE</th>
+                                <th>SPECIE</th>
+
                             </tr>
                         </thead>
                         <tbody>
@@ -49,9 +51,8 @@ export default function PokeDetails() {
                                 <td>{pokeName?.abilities.map((hab) => {
                                     return <li className="list-group-item" key={hab}>{hab}</li>
                                 })}</td>
-                                <td className="list-group" colSpan={2} >{pokeName?.moves.map((move) => {
-                                    return <li className="list-group-item" key={move}>{move}</li>
-                                })}</td>
+                                <td> <img src={pokeName?.imgURL} alt="img" /> </td>
+                                <td>{pokeName?.specie} </td>
                             </tr>
                         </tbody>
                     </table>

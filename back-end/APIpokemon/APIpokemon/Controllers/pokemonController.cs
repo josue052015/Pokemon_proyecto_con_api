@@ -81,6 +81,8 @@ namespace APIpokemon.Controllers
                    weight = _pokemons.weight,
                    height = _pokemons.height,
                    abilities = abilitiesNames.ToList(),
+                   imgURL = _pokemons.sprites.front_default,
+                   specie = _pokemons.species.name,
                    moves = movesNames.ToList()
             };
 

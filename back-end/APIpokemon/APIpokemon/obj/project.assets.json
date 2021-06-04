@@ -12572,11 +12572,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\proyecto_pokemon\\back-end\\APIpokemon\\APIpokemon\\APIpokemon.csproj",
+      "projectUniqueName": "F:\\Pokemon_proyecto\\back-end\\APIpokemon\\APIpokemon\\APIpokemon.csproj",
       "projectName": "APIpokemon",
-      "projectPath": "F:\\proyecto_pokemon\\back-end\\APIpokemon\\APIpokemon\\APIpokemon.csproj",
+      "projectPath": "F:\\Pokemon_proyecto\\back-end\\APIpokemon\\APIpokemon\\APIpokemon.csproj",
       "packagesPath": "C:\\Users\\RAYMER\\.nuget\\packages\\",
-      "outputPath": "F:\\proyecto_pokemon\\back-end\\APIpokemon\\APIpokemon\\obj\\",
+      "outputPath": "F:\\Pokemon_proyecto\\back-end\\APIpokemon\\APIpokemon\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

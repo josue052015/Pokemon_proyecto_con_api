@@ -12,6 +12,9 @@ namespace APIpokemon.Models
         public int height { get; set; }
         public int weight { get; set; }
         public List<string> abilities { get; set; }
-        public List<string> moves { get; set; }           
+        public List<string> moves { get; set; }
+        public string imgURL { get; set; }
+        public string specie { get; set; }
+
     }
 }
