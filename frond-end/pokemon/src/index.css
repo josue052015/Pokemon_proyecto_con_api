@@ -84,3 +84,16 @@ div.centered table
 #btnExportExcel{
   margin-right: 1050px;
 }
+/**/
+.PokeUL {
+  padding: 0px;
+  margin-top: 40px;
+  }
+  .PokeLI {
+  list-style-type: none;
+  float: left;
+  border: 1px solid #cecece;
+  padding: 10px;
+  margin: 10px;
+  width: 347px;
+  }

@@ -41,10 +41,10 @@ export default function ShowListPokemon() {
                 
                 <h1>Search pokemon</h1>
                 <input className = "form-control" type="text" placeholder="Search" onChange={e => searchUpdate(e.target.value)} />
-                <ul className = "list-group">
+                <ul className = "PokeUL">
                     <li className = "list-group-item active">Pokemon</li>
                     {filteredPoke.map((name, idx) => (
-                        <li className = "list-group-item" key={idx} onClick={() => routeChange(name)}>{name} </li>
+                        <li className = "PokeLI" key={idx} onClick={() => routeChange(name)}>{name} </li>
                     ))}
                 </ul>
             </div>
